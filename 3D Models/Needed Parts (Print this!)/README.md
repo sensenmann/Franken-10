@@ -10,6 +10,15 @@ For **developing/testing purpose** I've made very good experiences with PLA and 
 
 All parts can be printed without supports - **except** `X-Holder Left-Front.stl`.
 This part need support on the extension of the 2020 V-Type profile.
+- `X-Holder Left-Front.stl`
+- `X-Holder Left-Back.stl`
+- `X-Holder Right-Front.stl`
+- `X-Holder Right-Back.stl`
+- `Extruder Carrier - Left.stl`
+- `Extruder Carrier - Right.stl`
+- `Nozzle Wipe - Left.stl`
+- `Nozzle Wipe - Right.stl`
+- `Endstopp-Part.stl` (optional - only need, when you don't have an ABL-Probe)
 
 ## Eccentric Eccentric_Spacer_Openbuilds__Makerslide
 
