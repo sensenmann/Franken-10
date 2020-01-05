@@ -7,6 +7,16 @@ This is my first public Open Source project, so please be kind with me. Also, en
 **This is an unstable work in progress!! Don't use it now, until you're willing to contribute to this project!!**
 :bangbang::bangbang:
 
+![Franken-10](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/all1.png)
+
+
+
+[![Pic](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/Thumbs/all2.png)](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/all2.png)
+[![Pic](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/Thumbs/extruders.png)](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/extruders.png)
+[![Pic](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/Thumbs/front.png)](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/front.png)
+[![Pic](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/Thumbs/left-axis-holder.png)](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/left-axis-holder.png)
+[![Pic](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/Thumbs/right-axis-holder.png)](https://raw.githubusercontent.com/sensenmann/Franken-10/develop/Docs/Images/right-axis-holder.png)
+
 # Intention
 I wanted to upgrade my awesome Creality CR-10 3D Printer to make it work with dual axis - but without building it completly up from the ground.
 Also I want to keep the upgrades **cheap**, so everyone can easily join this journey.
