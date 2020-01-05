@@ -56,8 +56,8 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 # Instructions
 ## Things to print
 You need to print this parts - before you disassemble your CR-10 :wink:
-- **Eccentric Spacer** (*eccentric_spacer_big_x_4.stl*) ([link](3D%20Models/Needed%20Parts%20(Print%20this!/Eccentric_Spacer_Openbuilds__Makerslide)))
-- **Petsfang Cooler** ([link](3D%20Models/Needed%20Parts%20(Print%20this!/E3Dv6%2BCNC%2BMount%2B%26%2B5015%2Bfan%2BBullseye)))
+- **Eccentric Spacer** (*eccentric_spacer_big_x_4.stl*) ([link](3D%20Models/Needed%20Parts%20(Print%20this!)/Eccentric_Spacer_Openbuilds__Makerslide)))
+- **Petsfang Cooler** ([link](3D%20Models/Needed%20Parts%20(Print%20this!)/E3Dv6%2BCNC%2BMount%2B%26%2B5015%2Bfan%2BBullseye)))
   - CR10_STOCK_MANUAL_BASE_V11.3.stl
   - STOCKBASE_DUALFAN_DUCT_9.20.stl
   - For Autobedleveling (13mm or 18mm - depends on your probe):
