@@ -20,11 +20,13 @@ This part need support on the extension of the 2020 V-Type profile.
 - `Nozzle Wipe - Right.stl`
 - `Endstopp-Part.stl` *(optional - only need, when you don't have an ABL-Probe)*
 
-## Eccentric Eccentric_Spacer_Openbuilds__Makerslide
+## Eccentric Spacer
 
-We need 2 parts for the second extruder.
+We need 2 parts for the second extruder.  
+Original part from https://www.thingiverse.com/thing:303099
 
 ## 5015 Bullseye Fans
+Original part from https://www.thingiverse.com/thing:2759439
 
 Print the following parts (once):
 - `CR10_STOCK_MANUAL_BASE_V11.3.stl`
