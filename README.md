@@ -29,17 +29,17 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 
 | Pic | Name | Shoplink | Price (ca) |
 |--|--|--|--|
-| <img src="https://images-na.ssl-images-amazon.com/images/I/41vLHW8nHKL.jpg" width="100"> | **CR-10 Dual Z Axis upgrade** | [Amazon](https://www.amazon.de/gp/product/B074FXY823) |   45,- EUR  |
-| ![](https://images-na.ssl-images-amazon.com/images/I/71%2BWoab3ziL._SL100_.jpg) | **SKR Pro v1.1 Mainboard**<br>with 6 Steppermotor-Drivers | [Amazon](https://www.amazon.de/gp/product/B07W5XS572/) | 50,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61G7VimABYL._SL100_.jpg) | **6x TMC2130 Steppermotor Drivers**<br>in SPI-Mode | [Amazon](http://amazon.de/gp/product/B07RN7QP7V) | 70,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/71ofWfEviDL._SL100_.jpg) | **2x Nema 17 Steppermotors**<br>for Extruder & 2nd X-Axis | [Amazon](http://amazon.de/gp/product/B07MCXKW68) | 25,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61HmtTC%2BtrL._SL100_.jpg) | **MK8 Hotend**<br>with PTFE-Tube | [Amazon](http://amazon.de/gp/product/B07SFZH98N) | 25,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/71Sqo0MnqFL._SL100_.jpg) | **2x Metal Bowden Extruder**<br>1 for existing and 1 for new extruder | [Amazon](http://amazon.de/gp/product/B07QW4YF5B) | 13,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/51Jv1SLCGgL._SL100_.jpg) | **2x 5015 Part Cooling Fans**<br>(12 Volt) | [Amazon](http://amazon.de/gp/product/B00K9L8NWC) | 9,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61LqqjvOLCL._SL100_.jpg) | **Kepton-Tape + Isolating Material** | [Amazon](http://amazon.de/gp/product/B07D6LYP85) | 9,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61Zay-PxgGL._SL100_.jpg) | **4x V-Slot Rolls**| [Amazon](http://amazon.de/gp/product/B07SJ3VZ68) | 14,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61x2k6e3QZL._SL100_.jpg) | **Timing-Belt Set**| [Amazon](http://amazon.de/gp/product/B07JGXG7S2) | 16,- EUR |
-|||**Sum**| **270,- EUR**|
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41vLHW8nHKL.jpg" width="100"> | **CR-10 Dual Z Axis upgrade** | [Amazon](https://www.amazon.de/gp/product/B074FXY823) / [Aliexpress](https://www.aliexpress.com/item/33005235559.html)|   22€ - 45€  |
+| ![](https://images-na.ssl-images-amazon.com/images/I/71%2BWoab3ziL._SL100_.jpg) | **SKR Pro v1.1 Mainboard**<br>with 6 Steppermotor-Drivers | [Amazon](https://www.amazon.de/gp/product/B07W5XS572/) / [Aliexpress](https://www.aliexpress.com/item/33042699158.html) | 33€ - 50€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61G7VimABYL._SL100_.jpg) | **6x TMC2130 Steppermotor Drivers**<br>in SPI-Mode | [Amazon](http://amazon.de/gp/product/B07RN7QP7V) / [Aliexpress](https://www.aliexpress.com/item/32907648703.html) | 50€ - 70€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/71ofWfEviDL._SL100_.jpg) | **2x Nema 17 Steppermotors**<br>for Extruder & 2nd X-Axis | [Amazon](http://amazon.de/gp/product/B07MCXKW68) / [Aliexpress](https://www.aliexpress.com/item/4000130492082.html) | 10€ - 25€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61HmtTC%2BtrL._SL100_.jpg) | **MK8 Hotend**<br>12 Volt (with PTFE-Tube) | [Amazon](http://amazon.de/gp/product/B07SFZH98N) / [Aliexpress](https://www.aliexpress.com/item/4000219883438.html)| 10€ - 25€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/71Sqo0MnqFL._SL100_.jpg) | **2x Metal Bowden Extruder**<br>1 for existing and 1 for new extruder | [Amazon](http://amazon.de/gp/product/B07QW4YF5B) / [Aliexpress](https://www.aliexpress.com/item/32834380573.html) | 8€ - 13€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/51Jv1SLCGgL._SL100_.jpg) | **2x 5015 Part Cooling Fans**<br>(12 Volt) | [Amazon](http://amazon.de/gp/product/B00K9L8NWC) / [Aliexpress](https://www.aliexpress.com/item/4000141395273.html) | 2€ - 9€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61LqqjvOLCL._SL100_.jpg) | **Kepton-Tape + insulating material** | [Amazon](http://amazon.de/gp/product/B07D6LYP85) / [Aliexpress](https://www.aliexpress.com/item/4000389787844.html)| 3€ - 9€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61Zay-PxgGL._SL100_.jpg) | **4x V-Slot wheels**| [Amazon](http://amazon.de/gp/product/B07SJ3VZ68)) / [Aliexpress](https://www.aliexpress.com/item/4000234983430.html) | 6€ - 14€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61x2k6e3QZL._SL100_.jpg) | **GT2 Timing-Belt Set**| [Amazon](http://amazon.de/gp/product/B07JGXG7S2) / [Aliexpress](https://www.aliexpress.com/item/4000091123800.html) | 4€ - 16€ |
+|||**Sum**| **150€ - 270€**|
 
 
 
@@ -49,16 +49,16 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 ## Optional Parts
 | Pic | Name | Shoplink | Price (ca) |
 |--|--|--|--|
-| ![](https://images-na.ssl-images-amazon.com/images/I/613QSiCendL._SL100_.jpg) | **BIGTREETECH TFT24 V1.1 Display with SD-Card**<br>Needed to print from SD-Card<br>Unfortunately you can't use the SD-Card-Slot of the SKR PRO Mainboard :sob: | [Amazon](https://www.amazon.de/gp/product/B07V7YKFHY) |   24,- EUR  |
-| ![](https://images-na.ssl-images-amazon.com/images/I/611P-rqe%2B2L._SL100_.jpg) | **Inductive Sensor for auto bedleveling** <br> Depends on the distance from nozzle to the steelbed <br> :heavy_exclamation_mark:THIS SENSORS ONLY DETECTS METAL:heavy_exclamation_mark: <br> You need to have a steel buildplate - or measure the distance between the metal heated bed and your nozzle (for example if you have a glassplate on your heated bed) | [Amazon (8mm distance)](https://www.amazon.de/gp/product/B071FTP2ZP/)<br>or<br>[Amazon  (4mm distance)](https://www.amazon.de/gp/product/B071ZQ6VV6/)|   8,- EUR  |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61-xCj-X1mL._SL100_.jpg) ![](https://images-na.ssl-images-amazon.com/images/I/8127114wfIL._SL100_.jpg) | **GT2 Timing Pulley and Belt (852mm)**<br>for syncing the 2 Z-Axis | [Amazon](https://www.amazon.de/gp/product/B079BJQNN1/) and [Amazon](https://www.amazon.de/gp/product/B07D8ZZD9Y/) |   17,- EUR  |
+| ![](https://images-na.ssl-images-amazon.com/images/I/613QSiCendL._SL100_.jpg) | **BIGTREETECH TFT24 V1.1 Display with SD-Card**<br>Needed to print from SD-Card<br>Unfortunately you can't use the SD-Card-Slot of the SKR PRO Mainboard :sob: | [Amazon](https://www.amazon.de/gp/product/B07V7YKFHY) |   24€  |
+| ![](https://images-na.ssl-images-amazon.com/images/I/611P-rqe%2B2L._SL100_.jpg) | **Inductive Sensor for auto bedleveling** <br> Depends on the distance from nozzle to the steelbed <br> :heavy_exclamation_mark:THIS SENSORS ONLY DETECTS METAL:heavy_exclamation_mark: <br> You need to have a steel buildplate - or measure the distance between the metal heated bed and your nozzle (for example if you have a glassplate on your heated bed) | [Amazon (8mm distance)](https://www.amazon.de/gp/product/B071FTP2ZP/)<br>or<br>[Amazon  (4mm distance)](https://www.amazon.de/gp/product/B071ZQ6VV6/)|   8€  |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61-xCj-X1mL._SL100_.jpg) ![](https://images-na.ssl-images-amazon.com/images/I/8127114wfIL._SL100_.jpg) | **GT2 Timing Pulley and Belt (852mm)**<br>for syncing the 2 Z-Axis | [Amazon](https://www.amazon.de/gp/product/B079BJQNN1/) and [Amazon](https://www.amazon.de/gp/product/B07D8ZZD9Y/) |   17€  |
 
 
 
 
 # Instructions
 Do the CR-10 dual-z upgrade as instructed [here](https://www.sainsmart.com/blogs/news/how-to-install-dual-z-axis-to-upgrade-your-creality-cr-10-3d-printer).  
-Skip the controlbox-steps and go directly to the step **Bracket installing**, as we have our own mainboard. 
+Skip the controlbox-steps and go directly to the step **Bracket installing**, as we have our own mainboard.
 
 ## Things to print
 Look [here](3D%20Models/Needed%20Parts%20(Print%20this!)) for the printing parts and instructions.
