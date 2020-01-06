@@ -29,16 +29,16 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 
 | Pic | Name | Shoplink | Price (ca) |
 |--|--|--|--|
-| ![](https://images-na.ssl-images-amazon.com/images/I/41vLHW8nHKL.jpg) | **CR-10 Dual Z Axis upgrade** | [Amazon](https://www.amazon.de/gp/product/B074FXY823) |   45,- EUR  |
-| ![](https://images-na.ssl-images-amazon.com/images/I/71%2BWoab3ziL._SL300_.jpg) | **SKR Pro v1.1 Mainboard**<br>with 6 Steppermotor-Drivers | [Amazon](https://www.amazon.de/gp/product/B07W5XS572/) | 50,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61G7VimABYL._SL300_.jpg) | **6x TMC2130 Steppermotor Drivers**<br>in SPI-Mode | [Amazon](http://amazon.de/gp/product/B07RN7QP7V) | 70,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/71ofWfEviDL._SL300_.jpg) | **2x Nema 17 Steppermotors**<br>for Extruder & 2nd X-Axis | [Amazon](http://amazon.de/gp/product/B07MCXKW68) | 25,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61HmtTC%2BtrL._SL300_.jpg) | **MK8 Hotend**<br>with PTFE-Tube | [Amazon](http://amazon.de/gp/product/B07SFZH98N) | 25,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/71Sqo0MnqFL._SL300_.jpg) | **2x Metal Bowden Extruder**<br>1 for existing and 1 for new extruder | [Amazon](http://amazon.de/gp/product/B07QW4YF5B) | 13,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/51Jv1SLCGgL._SL300_.jpg) | **2x 5015 Part Cooling Fans**<br>(12 Volt) | [Amazon](http://amazon.de/gp/product/B00K9L8NWC) | 9,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61LqqjvOLCL._SL300_.jpg) | **Kepton-Tape + Isolating Material** | [Amazon](http://amazon.de/gp/product/B07D6LYP85) | 9,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61Zay-PxgGL._SL300_.jpg) | **4x V-Slot Rolls**| [Amazon](http://amazon.de/gp/product/B07SJ3VZ68) | 14,- EUR |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61x2k6e3QZL._SL300_.jpg) | **Timing-Belt Set**| [Amazon](http://amazon.de/gp/product/B07JGXG7S2) | 16,- EUR |
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41vLHW8nHKL.jpg" width="150"> | **CR-10 Dual Z Axis upgrade** | [Amazon](https://www.amazon.de/gp/product/B074FXY823) |   45,- EUR  |
+| ![](https://images-na.ssl-images-amazon.com/images/I/71%2BWoab3ziL._SL150_.jpg) | **SKR Pro v1.1 Mainboard**<br>with 6 Steppermotor-Drivers | [Amazon](https://www.amazon.de/gp/product/B07W5XS572/) | 50,- EUR |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61G7VimABYL._SL150_.jpg) | **6x TMC2130 Steppermotor Drivers**<br>in SPI-Mode | [Amazon](http://amazon.de/gp/product/B07RN7QP7V) | 70,- EUR |
+| ![](https://images-na.ssl-images-amazon.com/images/I/71ofWfEviDL._SL150_.jpg) | **2x Nema 17 Steppermotors**<br>for Extruder & 2nd X-Axis | [Amazon](http://amazon.de/gp/product/B07MCXKW68) | 25,- EUR |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61HmtTC%2BtrL._SL150_.jpg) | **MK8 Hotend**<br>with PTFE-Tube | [Amazon](http://amazon.de/gp/product/B07SFZH98N) | 25,- EUR |
+| ![](https://images-na.ssl-images-amazon.com/images/I/71Sqo0MnqFL._SL150_.jpg) | **2x Metal Bowden Extruder**<br>1 for existing and 1 for new extruder | [Amazon](http://amazon.de/gp/product/B07QW4YF5B) | 13,- EUR |
+| ![](https://images-na.ssl-images-amazon.com/images/I/51Jv1SLCGgL._SL150_.jpg) | **2x 5015 Part Cooling Fans**<br>(12 Volt) | [Amazon](http://amazon.de/gp/product/B00K9L8NWC) | 9,- EUR |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61LqqjvOLCL._SL150_.jpg) | **Kepton-Tape + Isolating Material** | [Amazon](http://amazon.de/gp/product/B07D6LYP85) | 9,- EUR |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61Zay-PxgGL._SL150_.jpg) | **4x V-Slot Rolls**| [Amazon](http://amazon.de/gp/product/B07SJ3VZ68) | 14,- EUR |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61x2k6e3QZL._SL150_.jpg) | **Timing-Belt Set**| [Amazon](http://amazon.de/gp/product/B07JGXG7S2) | 16,- EUR |
 |||**Sum**| **270,- EUR**|
 
 
@@ -49,9 +49,9 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 ## Optional Parts
 | Pic | Name | Shoplink | Price (ca) |
 |--|--|--|--|
-| ![](https://images-na.ssl-images-amazon.com/images/I/613QSiCendL._SL300_.jpg) | **BIGTREETECH TFT24 V1.1 Display with SD-Card**<br>Needed to print from SD-Card<br>Unfortunately you can't use the SD-Card-Slot of the SKR PRO Mainboard :sob: | [Amazon](https://www.amazon.de/gp/product/B07V7YKFHY) |   24,- EUR  |
-| ![](https://images-na.ssl-images-amazon.com/images/I/611P-rqe%2B2L._SL300_.jpg) | **Inductive Sensor for auto bedleveling** <br> Depends on the distance from nozzle to the steelbed <br> :heavy_exclamation_mark:THIS SENSORS ONLY DETECTS METAL:heavy_exclamation_mark: <br> :heavy_exclamation_mark:NOT GLASS OR ANYTHING ELSE!:heavy_exclamation_mark: | [Amazon](https://www.amazon.de/gp/product/B071FTP2ZP/) (8mm distance)<br>or<br>[Amazon ](https://www.amazon.de/gp/product/B071ZQ6VV6/) (4mm distance)|   8,- EUR  |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61-xCj-X1mL._SL300_.jpg) ![](https://images-na.ssl-images-amazon.com/images/I/8127114wfIL._SL300_.jpg) | **GT2 Timing Pulley and Belt (852mm)**<br>for syncing the 2 Z-Axis | [Amazon](https://www.amazon.de/gp/product/B079BJQNN1/) and [Amazon](https://www.amazon.de/gp/product/B07D8ZZD9Y/) |   17,- EUR  |
+| ![](https://images-na.ssl-images-amazon.com/images/I/613QSiCendL._SL150_.jpg) | **BIGTREETECH TFT24 V1.1 Display with SD-Card**<br>Needed to print from SD-Card<br>Unfortunately you can't use the SD-Card-Slot of the SKR PRO Mainboard :sob: | [Amazon](https://www.amazon.de/gp/product/B07V7YKFHY) |   24,- EUR  |
+| ![](https://images-na.ssl-images-amazon.com/images/I/611P-rqe%2B2L._SL150_.jpg) | **Inductive Sensor for auto bedleveling** <br> Depends on the distance from nozzle to the steelbed <br> :heavy_exclamation_mark:THIS SENSORS ONLY DETECTS METAL:heavy_exclamation_mark: <br> :heavy_exclamation_mark:NOT GLASS OR ANYTHING ELSE!:heavy_exclamation_mark: | [Amazon](https://www.amazon.de/gp/product/B071FTP2ZP/) (8mm distance)<br>or<br>[Amazon ](https://www.amazon.de/gp/product/B071ZQ6VV6/) (4mm distance)|   8,- EUR  |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61-xCj-X1mL._SL150_.jpg) ![](https://images-na.ssl-images-amazon.com/images/I/8127114wfIL._SL150_.jpg) | **GT2 Timing Pulley and Belt (852mm)**<br>for syncing the 2 Z-Axis | [Amazon](https://www.amazon.de/gp/product/B079BJQNN1/) and [Amazon](https://www.amazon.de/gp/product/B07D8ZZD9Y/) |   17,- EUR  |
 
 
 
