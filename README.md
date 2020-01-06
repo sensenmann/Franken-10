@@ -57,5 +57,8 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 
 
 # Instructions
+Do the CR-10 dual-z upgrade as instructed [here](https://www.sainsmart.com/blogs/news/how-to-install-dual-z-axis-to-upgrade-your-creality-cr-10-3d-printer).  
+Skip the controlbox-steps and go directly to the step **Bracket installing**, as we have our own mainboard. 
+
 ## Things to print
 Look [here](3D%20Models/Needed%20Parts%20(Print%20this!)) for the printing parts and instructions.
