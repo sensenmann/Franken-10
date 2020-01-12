@@ -18,10 +18,12 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 - TMC2130 upgrade
 - Silent printing (thanks to TMC2130)
 - Sensorless homing on X and Y
+- Filament-Runout Sensor (using existing endstops)
 - 32 Bit Mainboard
 - 2 independent extruders (fast switching)
 - Autobedleveling and Mesh-Correction
 - Newest Marlin Firmware (V2.1.x)
+- Using existing CR-10 Frame (no drilling, etc.)
 
 
 # Parts
@@ -35,11 +37,13 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 | ![](https://images-na.ssl-images-amazon.com/images/I/71ofWfEviDL._SL100_.jpg) | **2x Nema 17 Steppermotors**<br>for Extruder & 2nd X-Axis | [Amazon](http://amazon.de/gp/product/B07MCXKW68) / [Aliexpress](https://www.aliexpress.com/item/4000130492082.html) | 10€ - 25€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61HmtTC%2BtrL._SL100_.jpg) | **MK8 Hotend**<br>12 Volt (with PTFE-Tube) | [Amazon](http://amazon.de/gp/product/B07SFZH98N) / [Aliexpress](https://www.aliexpress.com/item/4000219883438.html)| 10€ - 25€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/71Sqo0MnqFL._SL100_.jpg) | **2x Metal Bowden Extruder**<br>1 for existing and 1 for new extruder | [Amazon](http://amazon.de/gp/product/B07QW4YF5B) / [Aliexpress](https://www.aliexpress.com/item/32834380573.html) | 8€ - 13€ |
-| ![](https://images-na.ssl-images-amazon.com/images/I/51Jv1SLCGgL._SL100_.jpg) | **2x 5015 Part Cooling Fans**<br>(12 Volt) | [Amazon](http://amazon.de/gp/product/B00K9L8NWC) / [Aliexpress](https://www.aliexpress.com/item/4000141395273.html) | 2€ - 9€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/51Jv1SLCGgL._SL100_.jpg) | **2x 5015 Part Cooling Fans**<br>12 Volt | [Amazon](http://amazon.de/gp/product/B00K9L8NWC) / [Aliexpress](https://www.aliexpress.com/item/4000141395273.html) | 2€ - 9€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/81ud%2Bv9ghlL._SL100_.jpg) | **2x Noctua NF-A4x10 FL**<br>12 Volt - Hotend Fans| [Amazon](http://amazon.de/gp/product/B009NQLT0M) | 26€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61ky7HJJxCL._SL100_.jpg) | **120mm Fan**<br>12 Volt - for Mainboard | [Amazon](http://amazon.de/gp/product/B00K9L8NWC) | 4€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61LqqjvOLCL._SL100_.jpg) | **Kepton-Tape + insulating material** | [Amazon](http://amazon.de/gp/product/B07D6LYP85) / [Aliexpress](https://www.aliexpress.com/item/4000389787844.html)| 3€ - 9€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61Zay-PxgGL._SL100_.jpg) | **4x V-Slot wheels**| [Amazon](http://amazon.de/gp/product/B07SJ3VZ68)) / [Aliexpress](https://www.aliexpress.com/item/4000234983430.html) | 6€ - 14€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61x2k6e3QZL._SL100_.jpg) | **GT2 Timing-Belt Set**| [Amazon](http://amazon.de/gp/product/B07JGXG7S2) / [Aliexpress](https://www.aliexpress.com/item/4000091123800.html) | 4€ - 16€ |
-|||**Sum**| **150€ - 270€**|
+|||**Sum**| **180€ - 300€**|
 
 
 
