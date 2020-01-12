@@ -22,8 +22,9 @@ This part need support on the extension of the 2020 V-Type profile.
 
 ## Eccentric Spacer
 
-We need 2 parts for the second extruder.  
-Original part from https://www.thingiverse.com/thing:303099
+Original part from https://www.thingiverse.com/thing:303099  
+We need 2 parts for the second extruder-wheels.
+
 
 ## 5015 Bullseye Fans
 Original part from https://www.thingiverse.com/thing:2759439
@@ -38,3 +39,12 @@ Print the following parts (once):
 Then print again the following parts - but mirror them on the x-axis (for the 2nd extruder):
 - `CR10_STOCK_MANUAL_BASE_V11.3.stl`
 - `CR10TEVO_5015_DUCT_V7.5....stl`
+
+## CR-10 Feet
+Original part from https://www.thingiverse.com/thing:3093788  
+Print 4x `Pied-CR10-Update.STL` and mount it to the CR-10 frame.
+
+## Filament-Runoutsensor Mount
+Original part from http://www.thingiverse.com/thing:3352422  
+Print 2x `Filament_Sensor_Crealityv1.stl`  
+This part is using your existing CR-10 endstops.
