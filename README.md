@@ -34,6 +34,8 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41vLHW8nHKL.jpg" width="100"> | **CR-10 Dual Z Axis upgrade** | [Amazon](https://www.amazon.de/gp/product/B074FXY823) / [Aliexpress](https://www.aliexpress.com/item/33005235559.html)|   22€ - 45€  |
 | ![](https://images-na.ssl-images-amazon.com/images/I/71%2BWoab3ziL._SL100_.jpg) | **SKR Pro v1.1 Mainboard**<br>with 6 Steppermotor-Drivers | [Amazon](https://www.amazon.de/gp/product/B07W5XS572/) / [Aliexpress](https://www.aliexpress.com/item/33042699158.html) | 33€ - 50€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61G7VimABYL._SL100_.jpg) | **6x TMC2130 Steppermotor Drivers**<br>in SPI-Mode | [Amazon](http://amazon.de/gp/product/B07RN7QP7V) / [Aliexpress](https://www.aliexpress.com/item/32907648703.html) | 50€ - 70€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61pZjtEacPL._SL100_.jpg) | **RepRap Discount LCD 12864**<br>with SD-Card Slot | [Amazon](https://www.amazon.de/gp/product/B01LO20XGS/) / [Aliexpress](https://www.aliexpress.com/item/4000331136499.html) | 11€ - 16€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61G7VimABYL._SL100_.jpg) | **6x TMC2130 Steppermotor Drivers**<br>in SPI-Mode | [Amazon](http://amazon.de/gp/product/B07RN7QP7V) / [Aliexpress](https://www.aliexpress.com/item/32907648703.html) | 50€ - 70€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/71ofWfEviDL._SL100_.jpg) | **2x Nema 17 Steppermotors**<br>for Extruder & 2nd X-Axis | [Amazon](http://amazon.de/gp/product/B07MCXKW68) / [Aliexpress](https://www.aliexpress.com/item/4000130492082.html) | 10€ - 25€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61HmtTC%2BtrL._SL100_.jpg) | **MK8 Hotend**<br>12 Volt (with PTFE-Tube) | [Amazon](http://amazon.de/gp/product/B07SFZH98N) / [Aliexpress](https://www.aliexpress.com/item/4000219883438.html)| 10€ - 25€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/71Sqo0MnqFL._SL100_.jpg) | **2x Metal Bowden Extruder**<br>1 for existing and 1 for new extruder | [Amazon](http://amazon.de/gp/product/B07QW4YF5B) / [Aliexpress](https://www.aliexpress.com/item/32834380573.html) | 8€ - 13€ |
@@ -43,7 +45,7 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 | ![](https://images-na.ssl-images-amazon.com/images/I/61LqqjvOLCL._SL100_.jpg) | **Kepton-Tape + insulating material** | [Amazon](http://amazon.de/gp/product/B07D6LYP85) / [Aliexpress](https://www.aliexpress.com/item/4000389787844.html)| 3€ - 9€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61Zay-PxgGL._SL100_.jpg) | **4x V-Slot wheels**| [Amazon](http://amazon.de/gp/product/B07SJ3VZ68)) / [Aliexpress](https://www.aliexpress.com/item/4000234983430.html) | 6€ - 14€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61x2k6e3QZL._SL100_.jpg) | **GT2 Timing-Belt Set**| [Amazon](http://amazon.de/gp/product/B07JGXG7S2) / [Aliexpress](https://www.aliexpress.com/item/4000091123800.html) | 4€ - 16€ |
-|||**Sum**| **180€ - 300€**|
+|||**Sum**| **190€ - 320€**|
 
 
 
@@ -66,3 +68,6 @@ Skip the controlbox-steps and go directly to the step **Bracket installing**, as
 
 ## Things to print
 Look [here](3D%20Models/Needed%20Parts%20(Print%20this!)) for the printing parts and instructions.
+
+## Assembly
+:heavy_exclamation_mark: UNDER CONSTRUCTION :heavy_exclamation_mark:
