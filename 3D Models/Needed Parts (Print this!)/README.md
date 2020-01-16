@@ -48,3 +48,7 @@ Print 4x `Pied-CR10-Update.STL` and mount it to the CR-10 frame.
 Original part from http://www.thingiverse.com/thing:3352422  
 Print 2x `Filament_Sensor_Crealityv1.stl`  
 This part is using your existing CR-10 endstops.
+
+## CR-10 Dual_Z Pulley-Setup
+Original part from https://www.thingiverse.com/thing:2628377  
+Print `Idle_Pulley_Tension_Bracket.stl`
