@@ -55,7 +55,6 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 ## Optional Parts
 | Pic | Name | Shoplink | Price (ca) |
 |--|--|--|--|
-| ![](https://images-na.ssl-images-amazon.com/images/I/613QSiCendL._SL100_.jpg) | **BIGTREETECH TFT24 V1.1 Display with SD-Card**<br>Needed to print from SD-Card<br>Unfortunately you can't use the SD-Card-Slot of the SKR PRO Mainboard :sob: | [Amazon](https://www.amazon.de/gp/product/B07V7YKFHY) |   24€  |
 | ![](https://images-na.ssl-images-amazon.com/images/I/611P-rqe%2B2L._SL100_.jpg) | **Inductive Sensor for auto bedleveling** <br> Depends on the distance from nozzle to the steelbed <br> :heavy_exclamation_mark:THIS SENSORS ONLY DETECTS METAL:heavy_exclamation_mark: <br> You need to have a steel buildplate - or measure the distance between the metal heated bed and your nozzle (for example if you have a glassplate on your heated bed) | [Amazon (8mm distance)](https://www.amazon.de/gp/product/B071FTP2ZP/)<br>or<br>[Amazon  (4mm distance)](https://www.amazon.de/gp/product/B071ZQ6VV6/)|   8€  |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61-xCj-X1mL._SL100_.jpg) ![](https://images-na.ssl-images-amazon.com/images/I/8127114wfIL._SL100_.jpg) | **GT2 Timing Pulley and Belt (852mm)**<br>for syncing the 2 Z-Axis | [Amazon](https://www.amazon.de/gp/product/B079BJQNN1/) and [Amazon](https://www.amazon.de/gp/product/B07D8ZZD9Y/) |   17€  |
 
