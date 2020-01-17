@@ -47,6 +47,12 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 | ![](https://images-na.ssl-images-amazon.com/images/I/61x2k6e3QZL._SL100_.jpg) | **GT2 Timing-Belt Set**| [Amazon](http://amazon.de/gp/product/B07JGXG7S2) / [Aliexpress](https://www.aliexpress.com/item/4000091123800.html) | 4€ - 16€ |
 |||**Sum**| **190€ - 320€**|
 
+## Assembly-Material ##
+| Pic | Name | Shoplink | Price (ca) |
+|--|--|--|--|
+ ![](https://images-na.ssl-images-amazon.com/images/I/71zeGSWKr9L._SL100_.jpg) | **M3 Screws- and Nuts-Set** | [Amazon](https://www.amazon.de/gp/product/B07J1YDPVJ) | 15 € |
+| ![](https://images-na.ssl-images-amazon.com/images/I/71v7pr24bEL._SL100_.jpg) | **Stepper-Motor Cables** | [Amazon](https://www.amazon.de/gp/product/B01HY42R2S/) | 10€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61ExBwxM9qL._SL100_.jpg) | **Crimp-Set** | [Amazon](https://www.amazon.de/gp/product/B07ZF6999L/) | 19€ |
 
 
 
@@ -65,7 +71,7 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 Do the CR-10 dual-z upgrade as instructed [here](https://www.sainsmart.com/blogs/news/how-to-install-dual-z-axis-to-upgrade-your-creality-cr-10-3d-printer).  
 Skip the controlbox-steps and go directly to the step **Bracket installing**, as we have our own mainboard.
 
-All other steps are documented in the [manual](Docs)  
+All other steps are documented in the **[manual](Docs)**  
 :heavy_exclamation_mark: UNDER CONSTRUCTION :heavy_exclamation_mark:
 
 # Marlin #
