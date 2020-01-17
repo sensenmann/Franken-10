@@ -65,7 +65,7 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 Do the CR-10 dual-z upgrade as instructed [here](https://www.sainsmart.com/blogs/news/how-to-install-dual-z-axis-to-upgrade-your-creality-cr-10-3d-printer).  
 Skip the controlbox-steps and go directly to the step **Bracket installing**, as we have our own mainboard.
 
-All other steps are documented in the [manual](tree/master/Docs)  
+All other steps are documented in the [manual](Docs)  
 :heavy_exclamation_mark: UNDER CONSTRUCTION :heavy_exclamation_mark:
 
 # Marlin #
