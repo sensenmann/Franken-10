@@ -3,7 +3,7 @@
 ;  If it is too far in the front, decrease the 2nd Nozzle Y-Offset Value (negative values).
 ;
 ;  Actual Values:
-;  X:  327.5
+;  X:  335.8
 ;  Y: -0.2mm
 ;  Z: +0.4
 
@@ -17,15 +17,15 @@ M220 S100                             ; Set Feedrate to 100%
 G91                                   ; use relative positioning
 M420 S Z2                             ; activate bed leveling
 G21                                   ; set units to millimeters
-M221 T0 S{if layer_height<0.075}100{else}95{endif}
-M221 T1 S{if layer_height<0.075}100{else}95{endif}
+M221 T0 S95
+M221 T1 S95
 
 
 M117 Heating Bed + Extruder...
 
-M104 S[first_layer_temperature] T0    ; set extruder temp
-M104 S[first_layer_temperature] T1    ; set extruder temp
-M140 S[first_layer_bed_temperature]   ; set bed temp
+M104 S205 T0    ; set extruder temp
+M104 S205 T1    ; set extruder temp
+M140 S60   ; set bed temp
 
 
 ; home all axes
@@ -35,18 +35,21 @@ M605 S0                               ; full controll (so the toolheads don't pa
 M117 Homing X+Y Axis...
 G91                                   ; use relative positioning
 T0
-G0 X20 Y20 F2000                      ; move left extruder + buildplate a bit away
+G0 X20 Y20 F5000                      ; move left extruder + buildplate a bit away
+G4 P500
 
 T1
+G4 P500
 M605 S1                               ; reset to autopark
-G0 X-20 F2000                         ; move right extruder a bit away
+G4 P500
+G0 X-20 F5000                         ; move right extruder a bit away
 G4 P500
 M605 S0                               ; full controll (so the toolheads don't park!)
 T0
 
 
 G28 XY
-M18 X                                 ;release tension on x
+;M18 X                                 ;release tension on x (DONT!!!)
 
 M605 S1                               ; reset to autopark
 
@@ -54,13 +57,22 @@ T1
 T0
 
 M117 Homing Z-Axis...
-G28 Z           ; homing z
+G28 Z                     ; homing z
 
-G27         ; parking extruder
+M117 Bed leveling...
+;G29                       ; Auto BED_LEVELING    (DONT!!!!)
 
+T1                        ;park nozzle
+T0
 
-G90         ; use absolute positioning
+G90                       ; use absolute positioning
 M117 Homing done!
+
+M117 Waiting for Heating...
+M190 S60     ; wait for bed temp
+M109 S205 T0      ; wait for extruder 1 temp
+M109 S205 T1      ; wait for extruder 2 temp
+
 ; ***************************************************************************
 ; ***************************************************************************
 
@@ -72,7 +84,7 @@ T0
 M83                             ; setting extruder to relative
 
 
-G1 X10 Y30 Z0.1 F10000          ; move to 10/30/0.1 (fast)
+G1 X10 Y30 Z0.1 F5000          ; move to 10/30/0.1 (fast)
 G1 E10 F10000                   ;un-retract
 G1 E12 F400                     ;purge 12mm
 G1 X150 E8.91 F1000             ; line from x10 to x150 (=140mm)
@@ -124,7 +136,7 @@ G1 E-10 F10000                  ;retract
 
 
 
-G1 X110 Y290 Z0.1 F10000          ; move to 10/30/0.1 (fast)
+G1 X110 Y290 Z0.1 F5000          ; move to 10/30/0.1 (fast)
 G1 E10 F10000                    ;un-retract
 G1 Y150 E8.91 F1000             ; line from x10 to x150 (=140mm)
 
@@ -166,7 +178,7 @@ G1 E-10 F10000                  ;retract
 
 
 T1
-G1 X290 Y30 Z0.1 F10000          ; move to 290/30/0.1 (fast)
+G1 X290 Y30 Z0.1 F5000          ; move to 290/30/0.1 (fast)
 G1 E10 F10000                    ;un-retract
 G1 E12 F400                      ;purge 12mm
 G1 X150 E8.91 F1000              ; line from x290 to x150 (=140mm)
@@ -224,7 +236,7 @@ G1 E0.64 Y270 F1000              ; ********* extrude 260 -> 270 ********
 G1 E-10 F10000                  ;retract
 
 
-G1 X100 Y30 Z0.1 F10000          ; move to 100/30/0.1 (fast)
+G1 X100 Y30 Z0.1 F5000          ; move to 100/30/0.1 (fast)
 G1 E10 F10000                    ;un-retract
 G1 Y150 E8.91 F1000             ; line from x10 to x150 (=140mm)
 
