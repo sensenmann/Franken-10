@@ -7,4 +7,4 @@ For further details look at the [original instructions](../../../blob/develop/Do
 
 # Build Marlin Firmware
 
-To build the Marlin-Firmware please checkout [my fork](https://github.com/sensenmann/Franken-10-Marlin) of the original Marin-Firmware `dev-2.1.x`.
+To build the Marlin-Firmware please checkout [my fork](https://github.com/sensenmann/Franken-10-Marlin) of the original Marin-Firmware `bugfix-2.0.x`.
