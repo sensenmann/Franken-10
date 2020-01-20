@@ -1,1 +1,7 @@
 Pin-Layout.png
+project.checksum
+Firmware/BIGTREE_SKR_PRO/FrameworkArduino*
+Firmware/BIGTREE_SKR_PRO/lib*/
+Firmware/BIGTREE_SKR_PRO/src
+*.elf
+*.dblite
