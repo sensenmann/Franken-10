@@ -2,10 +2,12 @@
 ;  If the 2nd extruder is too far in the back, then increase 2nd Nozzle Y-Offset (positive values).
 ;  If it is too far in the front, decrease the 2nd Nozzle Y-Offset Value (negative values).
 ;
+;  Z-Probe: -0.88
+;
 ;  Actual Values:
-;  X:  335.8
-;  Y: -0.2mm
-;  Z: +0.4
+;  X:  388.7
+;  Y: -1.00mm
+;  Z: -0.7
 
 
 
@@ -29,22 +31,20 @@ M140 S60   ; set bed temp
 
 
 ; home all axes
-T1
 T0
-M605 S0                               ; full controll (so the toolheads don't park!)
+M605 S0                               ; full control (so the toolheads don't park!)
 M117 Homing X+Y Axis...
 G91                                   ; use relative positioning
-T0
-G0 X20 Y20 F5000                      ; move left extruder + buildplate a bit away
-G4 P500
+G0 X20 Y20 F10000                      ; move left extruder + buildplate a bit away
+;G4 P500
 
 T1
-G4 P500
+;G4 P500
 M605 S1                               ; reset to autopark
-G4 P500
-G0 X-20 F5000                         ; move right extruder a bit away
-G4 P500
-M605 S0                               ; full controll (so the toolheads don't park!)
+;G4 P500
+G0 X-20 F10000                         ; move right extruder a bit away
+;G4 P500
+M605 S0                               ; full control (so the toolheads don't park!)
 T0
 
 
@@ -53,25 +53,24 @@ G28 XY
 
 M605 S1                               ; reset to autopark
 
-T1
-T0
-
 M117 Homing Z-Axis...
 G28 Z                     ; homing z
 
 M117 Bed leveling...
 ;G29                       ; Auto BED_LEVELING    (DONT!!!!)
 
-T1                        ;park nozzle
-T0
+;T1                        ;park toolhead
+;T0
+G27                          ;park toolhead
+
 
 G90                       ; use absolute positioning
 M117 Homing done!
 
 M117 Waiting for Heating...
-M190 S60     ; wait for bed temp
-M109 S205 T0      ; wait for extruder 1 temp
-M109 S205 T1      ; wait for extruder 2 temp
+;M190 S60     ; wait for bed temp
+;M109 S205 T0      ; wait for extruder 1 temp
+;M109 S205 T1      ; wait for extruder 2 temp
 
 ; ***************************************************************************
 ; ***************************************************************************
@@ -83,10 +82,10 @@ M109 S205 T1      ; wait for extruder 2 temp
 T0
 M83                             ; setting extruder to relative
 
-
-G1 X10 Y30 Z0.1 F5000          ; move to 10/30/0.1 (fast)
+; Make Blob
+G1 X10 Y30 Z0.1 F10000          ; move to 10/30/0.1 (fast)
 G1 E10 F10000                   ;un-retract
-G1 E12 F400                     ;purge 12mm
+G1 E20 F400                     ;purge 20mm
 G1 X150 E8.91 F1000             ; line from x10 to x150 (=140mm)
 
 
@@ -136,7 +135,7 @@ G1 E-10 F10000                  ;retract
 
 
 
-G1 X110 Y290 Z0.1 F5000          ; move to 10/30/0.1 (fast)
+G1 X110 Y290 Z0.1 F10000          ; move to 10/30/0.1 (fast)
 G1 E10 F10000                    ;un-retract
 G1 Y150 E8.91 F1000             ; line from x10 to x150 (=140mm)
 
@@ -178,7 +177,7 @@ G1 E-10 F10000                  ;retract
 
 
 T1
-G1 X290 Y30 Z0.1 F5000          ; move to 290/30/0.1 (fast)
+G1 X290 Y30 Z0.1 F10000          ; move to 290/30/0.1 (fast)
 G1 E10 F10000                    ;un-retract
 G1 E12 F400                      ;purge 12mm
 G1 X150 E8.91 F1000              ; line from x290 to x150 (=140mm)
@@ -236,7 +235,7 @@ G1 E0.64 Y270 F1000              ; ********* extrude 260 -> 270 ********
 G1 E-10 F10000                  ;retract
 
 
-G1 X100 Y30 Z0.1 F5000          ; move to 100/30/0.1 (fast)
+G1 X100 Y30 Z0.1 F10000          ; move to 100/30/0.1 (fast)
 G1 E10 F10000                    ;un-retract
 G1 Y150 E8.91 F1000             ; line from x10 to x150 (=140mm)
 
@@ -278,5 +277,5 @@ G1 E-10 F10000                  ;retract
 G1 X280 F3000                      ;move fast to X=280
 G1 E10 F10000                   ;un-retract
 
-
+T0
 M18
