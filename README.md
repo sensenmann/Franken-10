@@ -22,7 +22,7 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 - 32 Bit Mainboard
 - 2 independent extruders (fast switching)
 - Autobedleveling and Mesh-Correction
-- Newest Marlin Firmware (V2.1.x)
+- Newest Marlin Firmware V2.0
 - Using existing CR-10 Frame (no drilling, etc.)
 
 
@@ -43,9 +43,12 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 | ![](https://images-na.ssl-images-amazon.com/images/I/81ud%2Bv9ghlL._SL100_.jpg) | **2x Noctua NF-A4x10 FL**<br>12 Volt - Hotend Fans| [Amazon](http://amazon.de/gp/product/B009NQLT0M) | 26€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61ky7HJJxCL._SL100_.jpg) | **120mm Fan**<br>12 Volt - for Mainboard | [Amazon](http://amazon.de/gp/product/B00K9L8NWC) | 4€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61LqqjvOLCL._SL100_.jpg) | **Kepton-Tape + insulating material** | [Amazon](http://amazon.de/gp/product/B07D6LYP85) / [Aliexpress](https://www.aliexpress.com/item/4000389787844.html)| 3€ - 9€ |
-| ![](https://images-na.ssl-images-amazon.com/images/I/61Zay-PxgGL._SL100_.jpg) | **4x V-Slot wheels**| [Amazon](http://amazon.de/gp/product/B07SJ3VZ68)) / [Aliexpress](https://www.aliexpress.com/item/4000234983430.html) | 6€ - 14€ |
+| ![](https://images-na.ssl-images-amazon.com/images/I/61Zay-PxgGL._SL100_.jpg) | **4x V-Slot wheels**| [Amazon](http://amazon.de/gp/product/B07SJ3VZ68) / [Aliexpress](https://www.aliexpress.com/item/4000234983430.html) | 6€ - 14€ |
+| <img src="https://images.obi.at/product/DE/1197x1088/868788_1.jpg" width="100"> | **M8 Threaded rod and 2 nuts**| [Obi](https://www.obi.at/gewindestangen/lux-gewindestangen-m8-x-1-000-mm-verzinkt/p/7608896) | 2€ |
 | ![](https://images-na.ssl-images-amazon.com/images/I/61x2k6e3QZL._SL100_.jpg) | **GT2 Timing-Belt Set**| [Amazon](http://amazon.de/gp/product/B07JGXG7S2) / [Aliexpress](https://www.aliexpress.com/item/4000091123800.html) | 4€ - 16€ |
 |||**Sum**| **190€ - 320€**|
+
+
 
 ## Assembly-Material ##
 | Pic | Name | Shoplink | Price (ca) |
