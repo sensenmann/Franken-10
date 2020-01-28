@@ -1,1 +1,0 @@
-Creator: {Jose true} {Rodríguez true}
