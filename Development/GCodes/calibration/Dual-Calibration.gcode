@@ -182,7 +182,7 @@ T1
     G1 E30 F400				               ;make a blob
     G1 X150 Y30 E8.91 F1000        ;line from X=290 to X=150
     G1 E-3 F10000                   ;retract
-    
+
 
 
     G1 X150 Y50 F10000             ;move fast to X=150 Y=50
@@ -331,7 +331,29 @@ T1
 ; **************************
 
 T0
-G28 XZ
+T1
+T0
+
+; home all axes
+M605 S0                               ; full controll (so the toolheads don't park!)
+M117 Homing X+Y Axis...
+G91                                   ; use relative positioning
+T0
+G0 X10 Y20 F5000                      ; move left extruder + buildplate a bit away
+T1
+M605 S1                               ; reset to autopark
+G0 X-10 F5000                         ; move right extruder a bit away
+M605 S0                               ; full controll (so the toolheads don't park!)
+T0
+M605 S1                               ; reset to autopark
+
+
+G28 XYZ
+G90                                   ; use absolute positioning
+M420 S Z2                             ; activate bed leveling
+G21                                   ; set units to millimeters
+M83                                   ; setting extruder to relative
+
 
     T0
 
@@ -494,7 +516,7 @@ T1
     G1 E30 F400				               ;make a blob
     G1 X150 Y130 E8.91 F1000        ;line from X=290 to X=150
     G1 E-3 F10000                   ;retract
-    
+
 
 
     G1 X150 Y150 F10000             ;move fast to X=150 Y=150
