@@ -22,7 +22,7 @@ Also I want to keep the upgrades **cheap**, so everyone can easily join this jou
 - 32 Bit Mainboard
 - 2 independent extruders (fast switching)
 - Autobedleveling and Mesh-Correction
-- Newest Marlin Firmware V2.0
+- Basing on Marlin Firmware V2.0.1
 - Using existing CR-10 Frame (no drilling, etc.)
 
 
