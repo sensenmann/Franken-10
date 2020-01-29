@@ -1,6 +1,7 @@
 T0
-G1 X0 Y300 F4000
 G27
+G1 X0 Y300 F4000
+
 
 M140 S0           ; turn off bed temperature
 M104 T0 S0        ; turn off extruder 1 temperature
