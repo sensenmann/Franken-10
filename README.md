@@ -40,4 +40,4 @@ All other steps are documented in the **[manual](Docs)**
 
 # Firmware
 You can find my fork of Marlin 2.0 [here](https://github.com/sensenmann/Franken-10-Marlin)   
-The latest Firmware can be found in the **<a href="releases">releases</a>**-section
+The latest Firmware can be found in the **[releases](../../releases)**-section
