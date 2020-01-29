@@ -153,9 +153,8 @@ M117 Finished!
 T0
 G1 Y300 Z10 F5000
 
-;M140 S0           ; turn off bed temperature
-;M104 T0 S0        ; turn off extruder 1 temperature
-;M104 T1 S0        ; turn off extruder 2 temperature
+M104 T0 S0        ; turn off extruder 1 temperature
+M104 T1 S0        ; turn off extruder 2 temperature
 
 M605 S1
 G28 X
