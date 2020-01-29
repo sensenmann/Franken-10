@@ -2,7 +2,7 @@
 
 include "calibration/class.CalibrationX.php";
 
-$homing =file_get_contents('../slicer/duplicate/Startcode.gcode');
+$homing =file_get_contents('../slicer/dual/Startcode.gcode');
 $homing = str_replace('[first_layer_temperature]', '205', $homing);
 $homing = str_replace('[first_layer_bed_temperature]', '60', $homing);
 
@@ -47,6 +47,16 @@ G1 Y300 F$travel_speed";
 
 $fh = fopen('../calibration/Dual-Calibration.gcode', 'w');
 fwrite($fh, $gcode);
+fclose($fh);
+
+$gcode_marlin = $gcode;
+$gcode_marlin = preg_replace('/;.*/', '', $gcode_marlin);   // removing comments
+$gcode_marlin = preg_replace('~^\ +|\ +$~m', '', $gcode_marlin);   // trimming lines
+$gcode_marlin = preg_replace('/\n\s*/', "\n", $gcode_marlin);   // removing empty lines
+$gcode_marlin = str_replace("\n", "\\n", $gcode_marlin);
+
+$fh = fopen('../calibration/Dual-Calibration.marlin.gcode', 'w');
+fwrite($fh, $gcode_marlin);
 fclose($fh);
 
 ?>
