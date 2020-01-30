@@ -17,6 +17,7 @@ This is my first public Open Source project, so please be kind with me. Also, en
 - [Needed parts](#needed-parts)
 - [Instructions](#instructions)
 - [Firmware](#firmware)
+- [FAQ](#faq)
 
 <!-- /TOC -->
 
@@ -54,3 +55,6 @@ All other steps are documented in the **[manual](Docs)**
 ## Firmware
 You can find my fork of Marlin 2.0 [here](https://github.com/sensenmann/Franken-10-Marlin)   
 The latest Firmware can be found in the **[releases](../../releases)**-section
+
+## FAQ
+Please also read the [FAQ](FAQ.md) - or ask questions by opening an Issue.
