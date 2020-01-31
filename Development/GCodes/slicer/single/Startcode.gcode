@@ -34,7 +34,7 @@ T0
 
 G28
 M605 S1                               ; reset to autopark
-G27                                   ; park nozzle
+G1 X-83 F4000                         ; park nozzle
 G90                                   ; use absolute positioning
 M117 Homing done!
 
