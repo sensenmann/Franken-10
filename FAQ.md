@@ -1,15 +1,17 @@
 # FAQ
 
-<!-- TOC depthFrom:3 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [How big is the build-volume?](#how-big-is-the-build-volume)
-- [What modes are supported?](#what-modes-are-supported)
-- [What skills to I need to perform this?](#what-skills-to-i-need-to-perform-this)
-- [Is it safe?](#is-it-safe)
-- [Which slicer can I use?](#which-slicer-can-i-use)
+- [General](#general)
+	- [How big is the build-volume?](#how-big-is-the-build-volume)
+	- [What modes are supported?](#what-modes-are-supported)
+	- [Why still using 12V PSU?](#why-still-using-12v-psu)
+	- [What skills to I need to perform this?](#what-skills-to-i-need-to-perform-this)
+	- [Is it safe?](#is-it-safe)
+	- [Which slicer can I use?](#which-slicer-can-i-use)
 
 <!-- /TOC -->
-
+## General
 ### How big is the build-volume?
 The Franken-10 extends the existing X-rail, where the hotends travel on both sides, so there is additional space for the inactive extruder to park.
 This is made to keep the build-volume as big as possible.  
@@ -23,6 +25,10 @@ If you want to print with two filaments, there are this options:
 - Single-Extrusion
 - Dual-Extrusion (two colors or two filament-types)
 - Duplicate-Mode (the same model printed at the same time)
+
+### Why still using 12V PSU?
+Of course, 24V would heat up the extruder(s) and the bed a little bit quicker, but this would lead to additional costs (PSU and 24V-Heated Bed).
+If you want to do this upgrade, you can do this. The SKR PRO-Board supports Voltages from 12V - 24V without modifications.
 
 ### What skills to I need to perform this?
 There are **no programming skills** needed. Although, you need to completely disassemble your control-box and **soldier** a few cables.
