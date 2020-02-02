@@ -20,11 +20,22 @@ M140 S[first_layer_bed_temperature]   ; set bed temp
 ; home all axes
 M117 Homing...
 T0                                    ; park extruder
+M605 S1                               ; reset to autopark
 G28
+G90                                   ; use absolute positioning
+G1 X-83 F4000                         ; park nozzle
+
+M117 Waiting for Heating...
+M190 S[first_layer_bed_temperature]     ; wait for bed temp
+M109 S[first_layer_temperature] T0      ; wait for extruder 1 temp
+M109 S[first_layer_temperature] T1      ; wait for extruder 2 temp
+
+
 M605 S1                               ; reset to autopark
 M605 S2 X150                          ; setting duplicate mode
 G28 X
 M117 Homing done!
+
 
 ; ***************************************************************************
 ; ***************************************************************************
@@ -43,11 +54,8 @@ M569 S1 Y
 ; ***************************************************************************
 ; ****************************  PURGE LINE  *********************************
 ; ***************************************************************************
+G90                                   ; use absolute positioning
 G1 Z10.0 F500                         ; lift nozzle
-
-M117 Waiting for Heating...
-M190 S[first_layer_bed_temperature]     ; wait for bed temp
-M109 S[first_layer_temperature] T0      ; wait for extruder 1 temp
 
 
 M117 Purge-Line for E1...

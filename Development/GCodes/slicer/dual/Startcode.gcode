@@ -40,6 +40,13 @@ G1 X-83 F4000                         ; park nozzle
 G90                                   ; use absolute positioning
 M117 Homing done!
 
+M117 Waiting for Heating...
+M190 S[first_layer_bed_temperature]     ; wait for bed temp
+M109 S[first_layer_temperature] T0      ; wait for extruder 1 temp
+
+M109 S[first_layer_temperature] T1      ; wait for extruder 2 temp
+
+
 ; ***************************************************************************
 ; ***************************************************************************
 
@@ -57,13 +64,8 @@ M569 S1 Y
 ; ***************************************************************************
 ; ****************************  PURGE LINE  *********************************
 ; ***************************************************************************
+G90                                   ; use absolute positioning
 G1 Z10.0 F500                         ; lift nozzle
-
-M117 Waiting for Heating...
-M190 S[first_layer_bed_temperature]     ; wait for bed temp
-M109 S[first_layer_temperature] T0      ; wait for extruder 1 temp
-
-M109 S[first_layer_temperature] T1      ; wait for extruder 2 temp
 
 
 M117 Purge-Line for E1...

@@ -2,7 +2,7 @@
 
 include "calibration/class.CalibrationX.php";
 
-$homing =file_get_contents('../slicer/dual/Startcode.gcode');
+$homing = file_get_contents('../slicer/dual/Startcode.gcode');
 $homing = str_replace('[first_layer_temperature]', '205', $homing);
 $homing = str_replace('[first_layer_bed_temperature]', '60', $homing);
 
