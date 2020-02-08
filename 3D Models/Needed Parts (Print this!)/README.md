@@ -6,6 +6,7 @@ For **developing/testing purpose** I've made very good experiences with PLA and 
 
 
 
+
 ## Franken-10 Parts
 
 All parts can be printed without supports.  
@@ -36,6 +37,9 @@ All parts can be printed without supports.
 - **4x** `Nut-Holder.stl`
 - **3x** `Exccentric Spacer.stl`
 
+
+<div style="color: #BBBBBB">
+
 #### for stock hotend *(not updated aynmore)*
 - `Carriage Left - Stock Hotend.stl`
 - `Carriage Left - Stock Hotend - Part 2.stl`
@@ -43,6 +47,7 @@ All parts can be printed without supports.
 - `Carriage Left - Stock Hotend - ABL.stl`
 - `Carriage Right - Stock Hotend.stl`
 - **3x** `Exccentric Spacer.stl`
+</div>
 
 ### PSU + Mainboard Enclosures
 - `PSU-Enclosure 1.stl`
@@ -57,17 +62,20 @@ All parts can be printed without supports.
 ## 3rd Party Parts
 ### 5015 Bullseye Fans
 Original part from https://www.thingiverse.com/thing:2759439
+#### for E3D V6 Hotend - recommended
+- **2x** `CR10_E3DV6_MANUAL_BASE_V7.5.stl`
+- **2x** `E3DV6_DUCT_V7.5.stl`
+- **2x** `E3DV6_OR_VOLC_40MM_CAP_V7.5.stl`
 
-Print the following parts (once):
-- `CR10_STOCK_MANUAL_BASE_V11.3.stl`
-- `CR10TEVO_5015_DUCT_V7.5....stl`
+<div style="color: #BBBBBB">
+
+#### for stock hotend *(not updated aynmore)*
+- 2x `CR10_STOCK_MANUAL_BASE_V11.3.stl`
+- 2x `CR10TEVO_5015_DUCT_V7.5....stl`
 - Optional (for Autobed-Leveling):
   - `ALL_18MM_EZABL_X+48_Y-2_RIGHT_V7.5 - mirrored.stl` *(for 18mm Probes)*
   - `ALL_13MM_EZABL_X+48_Y-2_RIGHT_7.5..stl` *(for 13mm Probes)*
-
-Then print again the following parts - but mirror them on the x-axis (for the 2nd extruder):
-- `CR10_STOCK_MANUAL_BASE_V11.3.stl`
-- `CR10TEVO_5015_DUCT_V7.5....stl`
+</div>
 
 ### CR-10 Feet
 Original part from https://www.thingiverse.com/thing:3093788  
