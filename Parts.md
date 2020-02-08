@@ -21,6 +21,11 @@
 |||**Sum**| **190€ - 320€**|
 
 
+## Recommended Parts
+| Pic | Name | Shoplink | Price (ca) |
+|--|--|--|--|
+| ![](https://images-na.ssl-images-amazon.com/images/I/610w8IcA7tL._SL100_.jpg) | **2x E3D V6 Hotend** *(or clone)* <br> An absolute must-have for printing fast | [Amazon](https://amzn.to/2H8Hl0S)| 12€  |
+
 
 ## Assembly-Material ##
 | Pic | Name | Shoplink | Price (ca) |

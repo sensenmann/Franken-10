@@ -25,10 +25,23 @@ All parts can be printed without supports.
 - `Endstopp-Part.stl` *(optional - only need, when you don't have an ABL-Probe)*
 
 ### Hotend Carriages
-- `Carriage Left.stl`
-- `Carriage Left - Adjustment 1.stl`
-- `Carriage Left - Adjustment 2.stl`
-- `Carriage Right.stl`
+#### for E3D V6 Hotend - recommended
+- `Carriage Left - E3DV6.stl`
+- `Carriage Left - E3DV6 - Part 2.stl`
+- `Carriage Left - E3DV6 - Part 2 - Cap.stl`
+- `Carriage Right - E3DV6.stl`
+- `Carriage Right - E3DV6 - Part 2.stl`
+- `Carriage Right - E3DV6 - Part 2 - Cap.stl`
+- `Carriage Right - E3DV6 - Part 2 - ABL.stl`
+- **4x** `Nut-Holder.stl`
+- **3x** `Exccentric Spacer.stl`
+
+#### for stock hotend *(not updated aynmore)*
+- `Carriage Left - Stock Hotend.stl`
+- `Carriage Left - Stock Hotend - Part 2.stl`
+- `Carriage Left - Stock Hotend - Part 2 - Cap.stl`
+- `Carriage Left - Stock Hotend - ABL.stl`
+- `Carriage Right - Stock Hotend.stl`
 - **3x** `Exccentric Spacer.stl`
 
 ### PSU + Mainboard Enclosures
