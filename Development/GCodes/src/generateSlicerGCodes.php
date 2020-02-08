@@ -12,7 +12,7 @@ $end = file_get_contents('homing/templates/End.gcode');
 $end_single = $end;
 
 for ($i=0; $i<5; $i++) {
-  $homing_single = preg_replace('/;only-dual-start((.|\n)*);only-dual-end/i', '', $homing_single);
+  $homing_single = preg_replace('/;only-dual-start([\S\s]*?);only-dual-end/i', '', $homing_single);
   $purgeline_single = preg_replace('/;only-dual-start([\S\s]*?);only-dual-end/i', '', $purgeline_single);
   $end_single = preg_replace('/;only-dual-start([\S\s]*?);only-dual-end/i', '', $end_single);
 }
